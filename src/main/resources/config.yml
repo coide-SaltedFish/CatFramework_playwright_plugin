@@ -1,0 +1,7 @@
+plugin:
+  level: 100
+  name: "猫猫Playwright扩展插件"
+  description: "用于在项目中为Playwright提供支持"
+  author: "一只大猫条"
+
+  mainClass: "org.sereinfish.catcat.framework.playwright.PluginMain"
